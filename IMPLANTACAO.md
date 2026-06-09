@@ -1,9 +1,9 @@
 # Guia de Implantação e Infraestrutura
 
-### Pré-Requisitos do Ambiente (Local)
+## Pré-Requisitos do Ambiente (Local)
 
 Para rodar este projeto no seu computador você precisa ter instalado:
--[] PH (versão 8.2 ou superior)
+-[] PHP (versão 8.2 ou superior)
 -[] Composer (Gerenciador de pacotes do PHP)
 -[] Filament (Laravel)
 -[] Node.js & NPM (Para os estilos visuais)
